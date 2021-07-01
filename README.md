@@ -6,7 +6,12 @@
 Tenho 21 anos e sou desenvolvedor back-end, atuei por um bom tempo na web tanto back-end quanto front-end onde a tecnologia do server-side era o PHP e atualmente estou utilizando JAVA + SQL em meus projetos.
 Desenvolvi uma framework na qual ainda trabalho com melhorias onde o intuito é facilitar a conexão com banco de dados e simplificar escritas de códigos SQL, o código se encontra disponível em meu repositório aqui no GitHub.
 
-Habilidades: Java / PHP / MySQL / JSON / HTML / CSS / 
+Habilidades: Java / PHP / MySQL / JSON / HTML / CSS /<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=EduardoMGP&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMGP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 Atualmente sou membro da empresa Júnior EmComp, do Instituto Federal do Sudeste de Minas Gerais onde estou cursando meu Bacharelado em Ciência da Computação.
 - 🌱 Estou iniciando meus aprendizados nas frameworks React e NodeJs.
