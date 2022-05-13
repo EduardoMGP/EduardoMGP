@@ -9,7 +9,7 @@ Desenvolvi uma framework na qual ainda trabalho com melhorias onde o intuito é 
 
 Atualmente sou desenvolvedor back-end [PHP](https://www.php.net/) e utilizo a framework [CakePHP](https://cakephp.org/) em uma empresa chamada [NerdWeb](https://nerdweb.com.br/) onde meu principal objetivo é realizar manutenção e desenvolvimento de uma plataforma de ecommerce para que possamos auxiliar no aumento de vendas e consequentemente do lucro das empresas podendo o cliente solicitar sua loja da maneira que desejar.
 
-Habilidades: Java / PHP / MySQL / JSON / HTML / CSS /<br>
+Java / PHP / CakePHP/ MySQL / JSON / HTML / CSS / Linux / GIT / Docker<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=EduardoMGP&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
