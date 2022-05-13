@@ -3,7 +3,7 @@
 #### E sou um desenvolvedor back-end na empresa [NerdWeb](https://nerdweb.com.br/)
 ![Desenvolvedor java](https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/curso-desenvolvimento-java.jpg)
 
-Tenho 21 anos e sou desenvolvedor back-end, atuei por um bom tempo na web tanto back-end quanto front-end onde a tecnologia do server-side era o PHP, sou apaixonado pela linguagem JAVA, PHP, SQL nas quais foram com elas que realizei vários projetos sendo o maior deles um servidor de minecraft na qual manti por 8 anos.
+Tenho 22 anos e sou desenvolvedor back-end, atuei por um bom tempo na web tanto back-end quanto front-end onde a tecnologia do server-side era o PHP, sou apaixonado pela linguagem JAVA, PHP, SQL nas quais foram com elas que realizei vários projetos sendo o maior deles um servidor de minecraft na qual manti por 8 anos.
 
 Desenvolvi uma framework na qual ainda trabalho com melhorias onde o intuito é facilitar a conexão com banco de dados e simplificar escritas de códigos SQL, o código se encontra disponível em meu repositório aqui no GitHub.
 
