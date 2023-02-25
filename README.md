@@ -1,30 +1,42 @@
-# main
 ### Hi there 👋, me chamo Carlos Eduardo
-Sou uma pessoa proativa e estou sempre em busca de empresas onde possa colaborar e ter oportunidades de crescimento. 
-Curioso desde criança em busca de aprimorar meus conhecimentos e me tornar um profissional muito mais qualificado. Apaixonado por tecnologia, transformo meu trabalho em momentos divertidos, desenvolver e aprender coisas novas é sempre divertido e prazeroso.
 
-Possuo experiência em desenvolvimento back-end nas principais linguagens do mercado.
-Também tenho conhecimento sólido em ferramentas de controle de versão GIT e em metodologias ágeis.
-
-Em meu tempo livre já desenvolvi diversos projetos pessoais como por exemplo, um servidor de Minecraft que o mantive por 8 anos e uma framework Java onde o intuito era facilitar a conexão com banco de dados e simplificar escritas de códigos SQL. Alguns dos meus códigos públicos se encontram disponíveis em meu repositório no GitHub.
-
-Já administrei uma máquina dedicada onde era responsável pela instalação, manutenção de softwares e configurações de domínios pela Cloudflare no Apache e Nginx utilizando o sistema operacional Ubuntu e Debian, onde adquiri um pouco de conhecimento básico em Linux server.
-
-Atualmente sou desenvolvedor back-end PHP e utilizo a framework CakePHP na empresa NerdWeb onde meu principal objetivo é realizar manutenção e desenvolvimento de uma plataforma de e-commerce.
-
-Java / PHP / CakePHP/ MySQL / ORM / JSON / HTML / CSS / Linux / GIT / Docker<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=EduardoMGP&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMGP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Perfil profissional  
+Sou um profissional apaixonado por tecnologia e com grande disposição para crescer  
+profissionalmente, estou em busca de novas oportunidades para ampliar meu conhecimento  
+e aprimorar minhas habilidades. Tenho experiência em desenvolvimento de backend  
+utilizando as principais linguagens do mercado, além de ser experiente em ferramentas de  
+controle de versão e metodologias ágeis, o que me permite desenvolver aplicações  
+robustas e escaláveis.  
+Já tive a oportunidade de administrar uma máquina Linux, onde fui responsável pela  
+instalação e configuração de softwares, como Apache, Nginx e banco de dados. Essa  
+experiência me permitiu aprimorar minhas habilidades em sistemas operacionais,  
+tornando-me apto a lidar com desafios técnicos na área de infraestrutura de TI  
 
 
-- 🔭 Fui membro da empresa Júnior EmComp durante 2 anos, do Instituto Federal do Sudeste de Minas Gerais onde estou cursando meu Bacharelado em Ciência da Computação.
+## Experiência profissional
+
+### Desenvolvedor full-stack
+Empresa Júnior EmComp  
+Janeiro de 2020 - Dezembro de 2020  
+● Atuei como desenvolvedor web full-stack utilizando PHP, CSS, HTML, JavaScript na  
+equipe de projetos da empresa Júnior EmComp, do Instituto Federal do Sudeste de  
+Minas Gerais.  
+
+### Desenvolvedor back-end  
+Empresa NerdWeb.  
+Agosto de 2021 - Atualmente  
+● Atuação na área de produtos.  
+● Desenvolvimento e manutenção de uma plataforma e-commerce.  
+● Elaboração de API Rest.  
+● Integração de múltiplos Gateway de pagamento.  
+● Integração de múltiplas ERP para controle de estoque de produtos, vendas e financeiro. 
+
+## Habilidades  
+Java / PHP / CakePHP / Laravel / CodeIgniter / MySQL / ORM / JSON / HTML / CSS / Linux / GIT / Docke
+
 - 👯 Adoro colaborar e trabalhar em uma empresa com um ambiente amigável e acolhedor, onde possa aprender novas tecnologias e também utilizar as que tenho conhecimento até o momento. 
 - 🤪 Sou bastante dedicado e adoro desafios, em um ambiente onde tenho liberade de expressão sou bastante produtivo, amigável, sociável e dou meu máximo em meus trabalhos.
 - 📫 Email para contato: [carlos.eduardovieiraoliveira12@gmail.com](carlos.eduardovieiraoliveira12@gmail.com) 
-- [Curriculo](https://github.com/EduardoMGP/EduardoMGP/blob/main/Curriculo-Carlos-Eduardo-Vieira-de-Oliveira.pdf)
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EduardoMGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carloseduardo12/)  
 
