@@ -1,5 +1,12 @@
 ### Hi there 👋, me chamo Carlos Eduardo
 
+## Sobre mim
+Com uma personalidade proativa e determinada, estou sempre à procura de novas oportunidades de crescimento e aprendizado. Desde criança, sempre fui curioso e busquei aprimorar meus conhecimentos, e agora, como profissional, continuo essa busca incessante por evolução.  
+Com uma paixão especial por tecnologia, transformo cada momento de trabalho em algo divertido e prazeroso. Desenvolver e aprender novas coisas sempre foi uma fonte de prazer para mim.  
+Possuo experiência em desenvolvimento back-end nas principais linguagens do mercado e um conhecimento sólido em ferramentas de controle de versão GIT, além de ter conhecimento em metodologias ágeis. Tudo isso me permite desenvolver projetos de alta qualidade, sempre com foco na eficiência e na satisfação do cliente.  
+Como um apaixonado por jogos, sempre tive o desejo de participar do desenvolvimento de um jogo e conhecer mais sobre o mercado. Estou entusiasmado com a possibilidade de contribuir para esse setor e aprender ainda mais sobre esse universo fascinante.   
+Estou animado para colaborar com uma empresa que valorize o aprendizado e o desenvolvimento contínuo, e que me ofereça um ambiente de trabalho desafiador e recompensador. Estou pronto para fazer a diferença e contribuir para o sucesso da empresa!  
+
 ## Perfil profissional  
 Sou um profissional apaixonado por tecnologia e com grande disposição para crescer  
 profissionalmente, estou em busca de novas oportunidades para ampliar meu conhecimento  
